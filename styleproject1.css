@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+h2{
+    padding-top: 200px;
+}
+h1{
+    padding: 100px 100px ;
+}
+
+.button{
+    border: 5px solid ;
+    height: 500px;
+  width: 200px;
+  margin: 25px;
+  padding: 20px 20px 20px 20px;
+  
+ 
+}
+#grey{
+    background-color: rgba(29, 28, 28, 0.793);
+}
+#yellow
+{
+    background-color: yellow;
+}
+#red
+{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+     
+

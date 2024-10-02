@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    margin: 20% 20% 40% 30%;
+    background-color: lightblue;
+    color: black;
+}
+.localtime{
+text-align: center;
+font-size: larger;
+align-items: center;
+margin-left: 11%;
+
+}
+
+#clock
+{    align-items: center;
+    width: 150px;
+    border: 2px solid yellow;
+    border-radius: 12px;
+   
+    
+    height: 30px;
+    background-color: orange;
+    font-size: larger;
+    margin-left: 30%;
+ 
+}
+        
